@@ -65,6 +65,4 @@ All data used in this project are simulated for academic and analytical demonstr
 
 About Me
 --------
-Name: Santosh
-Role: Budding Pharmacovigilance Specialist & Healthcare Data Analyst
-Background: B.Pharm graduate with hands-on experience in drug safety analysis, clinical research, and data visualization using Excel, Python, and Power BI. Passionate about applying data-driven insights to improve patient safety and regulatory efficiency.
+Hi, I’m Santosh – Healthcare Data Analytics and Pharmacovigilance specialist with expertise in drug safety, data analytics, and adverse event reporting. I work at the intersection of healthcare and data, using Python, SQL, and visualization tools to generate actionable insights that improve patient safety. I’m passionate about pharmacovigilance, regulatory compliance, and building data-driven healthcare projects.
